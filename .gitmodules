@@ -1,0 +1,3 @@
+[submodule "frontend/frontend/eatwithme"]
+	path = frontend/frontend/eatwithme
+	url = https://github.com/ganyunhee/eat_with_me_fe
